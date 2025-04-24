@@ -1,0 +1,15 @@
+{
+   "firstName": "Aulia",
+   "lastName": "Jasifa",
+   "gender": "female",
+   "age": 19,
+   "address": {
+       "streetAddress": "Berastagi",
+       "city": "Medan",
+       "state": "North Sumatra"
+   },
+   "courses": [
+       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2CAB3", "name": "Pemodelan Perangkat Lunak" }
+   ]
+}
