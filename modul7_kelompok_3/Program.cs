@@ -4,7 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        var data = new DataMahasiswa_2311104060();
-        data.ReadJSON("jurnal7_1_2311104060.json"); // ganti sesuai path file kamu
+        var team = new TeamMembers_2311104060();
+        team.ReadJSON("jurnal7_2_2311104060.json"); // Ganti dengan nama file JSON yang sudah kamu rename
     }
 }
+
