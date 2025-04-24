@@ -4,8 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        var team = new TeamMembers_2311104060();
-        team.ReadJSON("jurnal7_2_2311104060.json"); // Ganti dengan nama file JSON yang sudah kamu rename
+        Console.WriteLine("Membaca file JSON dan menampilkan GlossEntry...");
+        GlossaryItem_2311104060.ReadJSON();
+
+        Console.WriteLine("\nSelesai.");
+        Console.ReadKey(); // Supaya konsol tidak langsung tertutup
     }
 }
+
 
