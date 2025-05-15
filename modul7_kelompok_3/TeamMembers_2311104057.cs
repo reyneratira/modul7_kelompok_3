@@ -22,7 +22,7 @@ namespace modul7_kelompok_3
         public void ReadJSON(string path)
         {
             string jsonData = File.ReadAllText(path);
-            var team = JsonSerializer.Deserialize<TeamMembers_2311104060>(jsonData);
+            var team = JsonSerializer.Deserialize<TeamMembers_2311104057>(jsonData);
 
             Console.WriteLine("Team member list:");
             foreach (var member in team.members)
