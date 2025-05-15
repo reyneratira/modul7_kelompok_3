@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Aulia",
+       "lastName": "Jasifa",
+       "gender": "female",
+       "age": 19,
+       "nim": "2311104060"
+    },
+    {
+       "firstName": "Ilham",
+       "lastName": "Assidaq",
+       "gender": "male",
+       "age": 19,
+       "nim": "2311104068"
+    },
+    {
+       "firstName": "Alvin",
+       "lastName": "Bagus",
+       "gender": "male",
+       "age": 19,
+       "nim": "2311104070"
+    }
+  ]
+}

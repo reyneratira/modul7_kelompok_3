@@ -8,14 +8,14 @@ using System.IO;
 
 namespace modul7_kelompok_3
 {
-    class Address
+    class Address_Reyner
     {
         public string streetAddress { get; set; }
         public string city { get; set; }
         public string state { get; set; }
     }
 
-    class Course
+    class Course_Reyner
     {
         public string code { get; set; }
         public string name { get; set; }
@@ -27,8 +27,8 @@ namespace modul7_kelompok_3
         public string lastName { get; set; }
         public string gender { get; set; }
         public int age { get; set; }
-        public Address address { get; set; }
-        public List<Course> courses { get; set; }
+        public Address_Reyner address { get; set; }
+        public List<Course_Reyner> courses { get; set; }
     }
     class DataMahasiswa2311104057
     {
