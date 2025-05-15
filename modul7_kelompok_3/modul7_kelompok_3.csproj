@@ -18,6 +18,9 @@
     <None Update="jurnal7_1_2311104060.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="jurnal7_2_2311104057.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="jurnal7_2_2311104060.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
