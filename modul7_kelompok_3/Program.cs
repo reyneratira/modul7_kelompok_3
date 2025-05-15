@@ -4,7 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        DataMahasiswa2311104057 data = new DataMahasiswa2311104057();
-        data.ReadJSON();
+        Console.WriteLine("Membaca file JSON dan menampilkan GlossEntry...");
+        GlossaryItem_2311104060.ReadJSON();
+
+        Console.WriteLine("\nSelesai.");
+        Console.ReadKey(); // Supaya konsol tidak langsung tertutup
     }
 }
+
+
